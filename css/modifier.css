@@ -12,3 +12,18 @@
     text-shadow: 2px 2px 1px black;
 }
 
+.card__deck--p {
+    line-height: 2.3em;
+}
+
+
+
+/* FORM */
+
+.form-button input{
+    margin: auto;
+}
+
+.form-button a {
+    text-decoration: none;
+}
