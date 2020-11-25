@@ -16,14 +16,21 @@
     line-height: 2.3em;
 }
 
+strong {
+    color: cornflowerblue;
+}
+
 
 
 /* FORM */
 
-.form-button input{
+.form-button a {
+    display: flex;
     margin: auto;
+    justify-content: center;
 }
 
 .form-button a {
     text-decoration: none;
 }
+
