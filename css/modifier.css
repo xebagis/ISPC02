@@ -1,3 +1,5 @@
+/* CAROUSEL */
+
 .carousel__text--color {
     color: black;
 }
@@ -10,6 +12,3 @@
     text-shadow: 2px 2px 1px black;
 }
 
-.carousel__text--weight {
-    /* font-weight: bold; */
-}

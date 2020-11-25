@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
 
+/* CAROUSEL */
+
 .carousel-inner {
     font-family: 'Lora', serif;
 }
@@ -8,6 +10,23 @@
     font-size: 20px;
 }
 
-.card {
-    margin: 40px auto 0px;
+
+
+/* PRESENTATION CARD */
+
+.card img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: auto;
+}
+
+.card button {
+    margin: auto
+}
+
+.col-md-3 {
+    display: flex;
+    flex-direction: column;
 }
