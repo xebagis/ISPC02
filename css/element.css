@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+.carousel-inner {
+    font-family: 'Lora', serif;
+}
+
+.carousel-inner p {
+    font-size: 20px;
+}
+
+.card {
+    margin: 40px auto 0px;
+}
