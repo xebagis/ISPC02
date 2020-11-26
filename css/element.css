@@ -91,3 +91,17 @@
     color: white;
     /* border: white; */
 }
+
+
+/* SEND EMAIL */
+
+.send, .send-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: grey;
+}
+
+.send img {
+    /* margin: auto; */
+}
